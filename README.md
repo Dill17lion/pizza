@@ -1,2 +1,2 @@
 # pizza
-school 
+This is a school project. Introduction to Github.
